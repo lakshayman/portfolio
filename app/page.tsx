@@ -210,7 +210,7 @@ export default function Home() {
           </a>
           <div className="w-[600px] max-w-[90%] flex flex-col gap-4">
             <span className="font-commissioner font-normal text-lg text-justify">
-              Developed the official website for the college fest "Xtasy" using
+              Developed the official website for the college fest named Xtasy using
               React.js, providing a user-friendly platform for event
               information, schedules, and updates. Implemented a registration
               system with unique QR codes for participants, integrated with a

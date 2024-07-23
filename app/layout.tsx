@@ -32,10 +32,10 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&display=swap"
           rel="stylesheet"
         />
+        <script src="https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.js" defer></script>
       </head>
       <body className={inter.className}>
         {children}
-        <script src="https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.js"></script>
       </body>
     </html>
   );
